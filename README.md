@@ -1,6 +1,6 @@
 # GitHub Username Checker | PY 🐍
 
-**GitHub Username Checker** is a Python tool that allows you to check the availability of GitHub usernames based on a wordlist. The tool checks them and saves available usernames in a created TXT file.
+**GitHub Username Checker** is a Python tool that allows you to check the availability of GitHub usernames based on a wordlist. The tool checks usernames and saves the available ones in a generated TXT file.
 
 ## Requirements
 
