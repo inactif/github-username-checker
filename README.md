@@ -51,5 +51,6 @@ Available usernames saved to 'available_usernames.txt'.
 
 ## Notes
 
+- This tool is 100% proxy less and super simple to use.
 - Use a valid internet connection while running the tool.
 - Banned accounts may reappear as available.
