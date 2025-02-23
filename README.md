@@ -19,7 +19,7 @@
 
 ## Usage
 
-1. Start the GitHub Username Checker:
+1. Start the GitHub Username Checker :
 
     ```bash
     python checker.py
