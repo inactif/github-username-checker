@@ -11,7 +11,7 @@
 
 1. Clone the repository.
 2. Install the required libraries.
-3. Run the tool:
+3. Run the tool :
 
     ```bash
     python checker.py
